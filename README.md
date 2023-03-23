@@ -3,6 +3,6 @@
 - 🔭 I’m currently working on gaming machines
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: ele/dele
-<div>
-(https://github-readme-stats.vercel.app/api?username=ySerenade)](https://github.com/ySerenade/github-readme-stats)
-</div>
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+
