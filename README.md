@@ -3,6 +3,7 @@
 - 🔭 I’m currently working on gaming machines
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: he/him
+-<img align="right" alt "Nade-Gif" src="https://discord.com/channels/962534398006296576/983129264717193276/1088585691623071895"
 
 <div style="display: inline_block"><br>
  Most used languages
