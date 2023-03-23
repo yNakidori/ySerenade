@@ -20,8 +20,6 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ySerenade&show_icons=true&theme=tokyonight)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySerenade&layout=compact&theme=tokyonight)
 
-##
-
 <div> 
   <a href="https://www.youtube.com/@Naki.Official" target="_blank"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" target="_blank"></a>
   <a href="https://instagram.com/rafaballerini" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
