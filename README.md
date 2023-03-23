@@ -5,4 +5,5 @@
 - 😄 Pronouns: ele/dele
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ySerenade)](https://github.com/ySerenade/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ySerenade&show_icons=true)
 
