@@ -13,7 +13,7 @@
   <img align="center" alt="Nade-Msql" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg">
   <img align="center" alt="Nade-Ruby" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain.svg">
   <img align="center" alt="Nade-Python" height="50" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg">
-  <img align="right" alt="Nade-Gif" src="https://discord.com/channels/962534398006296576/983129264717193276/1088585691623071895">
+  <img align="right" alt="Nade-Gif" src="https://discord.com/channels/962534398006296576/983129264717193276/1088584706745966602">
 </div>
 
 ##
