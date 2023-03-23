@@ -2,7 +2,8 @@
 
 - 🔭 I’m currently working on gaming machines
 - 🌱 I’m currently learning Java
-- 😄 Pronouns: ele/dele
+- 😄 Pronouns: he/him
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ySerenade&show_icons=true&theme=tokyonight)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ySerenade&layout=compact)](https://github.com/ySerenade/github-readme-stats)
 
