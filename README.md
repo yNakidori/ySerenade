@@ -1,8 +1,14 @@
+<div>
+  <img align="right" alt=Nade"Nade-Stolas" src="https://user-images.githubusercontent.com/127797136/227681547-8bfd8413-324e-4fb4-bfe0-695cdc12334c.gif">
+</div>
+
 ### Kia ora, aqui é o Naki, a.k.a ySerenade
 
 - 🔭 I’m currently working on gaming machines
 - 🌱 I’m currently learning Java
 - 😄 Pronouns: he/him
+
+
 
 <div style="display: inline_block"><br>
  Most used languages 
