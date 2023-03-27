@@ -3,7 +3,7 @@
 </div>
 
 ### Kia ora, aqui é o Naki, a.k.a ySerenade
-Meu sonho é trabalhar na NVIDIA como Game Performance Engineer Intern
+Meu sonho é trabalhar na NVIDIA como Game Performance Engineer
 
 - 🔭 I’m currently working on gaming machines
 - 🌱 I’m currently learning Java
